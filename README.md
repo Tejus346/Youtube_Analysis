@@ -69,7 +69,7 @@ An interactive Excel-based dashboard designed to visualize and analyze YouTube c
 ---
 
 ## 📸 Screenshots:
-*(Include 2–3 screenshots or GIFs here)*
+*https://github.com/Tejus346/Youtube_Analysis/blob/main/Youtube_analysis/youtube_ss.png*
 
 ---
 
